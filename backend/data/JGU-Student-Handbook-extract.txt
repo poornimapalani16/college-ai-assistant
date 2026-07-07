@@ -1,0 +1,175 @@
+STUDENT HANDBOOK 2024-25 — O.P. Jindal Global University (JGU)
+Source: https://jgu.edu.in/storage/1/Student-Handbook.pdf
+(Extracted front-matter section: About the University, Leadership, Academic Calendar,
+School-by-school admissions/fees/eligibility, Public Holidays, Events — approx. pages 1-42
+of the 350+ page handbook. This is the seed corpus used for the RAG demo below.)
+
+=== ABOUT THE UNIVERSITY ===
+O.P. Jindal Global (Institution of Eminence Deemed to be University) (JGU) is a non-profit
+multidisciplinary and research-oriented global university established in 2009 by the Government
+of Haryana and entitled by the University Grants Commission (UGC). JGU is a philanthropic
+initiative of its Founding Chancellor and Benefactor, Mr. Naveen Jindal, established in memory of
+his father, Mr. O. P. Jindal. JGU is a truly international university with over 13,000+ students and
+1200+ full-time faculty from 50+ countries in the world and from all states and union territories of India.
+
+JGU has established twelve interdisciplinary schools and four research & capacity building
+institutes: Jindal Global Law School (JGLS), Jindal Global Business School (JGBS), Jindal School
+of International Affairs (JSIA), Jindal School of Government and Public Policy (JSGP), Jindal
+School of Liberal Arts & Humanities (JSLH), Jindal School of Journalism & Communication (JSJC),
+Jindal School of Art & Architecture (JSAA), Jindal School of Banking & Finance (JSBF), Jindal
+School of Environment & Sustainability (JSES), Jindal School of Psychology & Counselling
+(JSPC), Jindal School of Languages & Literature (JSLL), Jindal School of Public Health & Human
+Development (JSPH), Jindal Institute of Behavioural Sciences (JIBS), Jindal Institute of
+Leadership Development and Executive Education (JILDEE), International Institute for Higher
+Education Research and Capacity Building (IIHEd), Jindal India Institute (JII), and the Jindal Centre
+for Digital Sciences (JCDS).
+
+JGU has been granted "Autonomy" by the UGC and the Ministry of Human Resource
+Development, Government of India, for having received the then-highest "A" Grade from NAAC.
+JGU has been ranked India's Number 1 Private University for three years running by QS World
+University Rankings 2023, and recognized among the Top 150 universities globally under 50
+years old by QS Young University Rankings. Jindal Global Law School has been ranked Number 1
+in India for five years in a row and is the only Indian law school among the Global Top 100 law
+schools (QS World University Rankings by Subject 2024). In 2020, JGU was recognized as an
+'Institution of Eminence' by the Ministry of Education, Government of India.
+
+Leadership: Founding Vice Chancellor is Professor (Dr.) C. Raj Kumar (also Dean, Jindal Global
+Law School). Registrar is Prof. (Dr.) Maharaj K. Pandit. Chief Financial Officer: Mr. Arun Kumar
+Jain. Director, Human Resources: Ms. Poonam Sapra. Chief Administrative Officer: Ms. Deepa
+Sharma. Controller of Examinations and Chief Proctor: Prof. Karan Latayan.
+
+=== ACADEMIC CALENDAR 2024-2025 ===
+Fall Semester (A) 2024: Classes begin 01.08.2024; Classes end 13.11.2024; Reading & Revision
+Period 14.11.2024-17.11.2024; Examination Period 18.11.2024-30.11.2024 (some exams may be
+held during the last teaching week/reading period); Winter Break/Internship 01.12.2024-31.01.2025.
+Spring Semester (B) 2025: Classes begin 03.02.2025 (1st and 2nd Feb 2025 are a weekend);
+Classes end 16.05.2025; Reading & Revision Period 17.05.2025-19.05.2025; Examination Period
+20.05.2025-31.05.2025; Summer Break/Internship 01.06.2025-31.07.2025 (some schools' Summer
+Semester runs with its own begin/end/reading/exam dates within this window).
+Faculty must remain on campus till 13 Dec 2024 (Sem A) / 13 June 2025 (Sem B) for evaluation,
+grading, invigilation, dissertation/project supervision; Re-Sit examinations beyond these dates
+require faculty availability for invigilation.
+
+Public Holidays 2024-25: Independence Day (15.08.2024, Thu), Declared Holiday (16.08.2024, Fri),
+Mahatma Gandhi's Birthday (02.10.2024, Wed), Dusshera (12.10.2024, Sat), Diwali (31.10.2024,
+Thu), Guru Nanak's Birthday (15.11.2024, Fri), Haryana Day (01.11.2024, Fri), Christmas Day
+(25.12.2024, Wed), Republic Day (26.01.2025, Sun), Holi (14.03.2025, Fri), Eid-ul-Fitar* (31.03.2025,
+Mon), Good Friday (18.04.2025, Fri), Id-ul-Juha/Bakrid* (07.06.2025, Sat). (*subject to change).
+Note: in lieu of 16 Aug 2024 holiday, 31 Aug 2024 (Sat) is a working day following Friday's timetable.
+
+Key Events: Founder's Day Celebration & Thirteenth Convocation (07.08.2024, Wed); Fifteenth
+University Day Celebration (30.09.2024, Mon).
+
+=== JINDAL GLOBAL LAW SCHOOL (JGLS) ===
+Established 2009 as India's first global law school, recognized by the Bar Council of India.
+Programmes: 3-year LL.B., 5-year B.A. LL.B. (Hons.), 5-year B.B.A. LL.B. (Hons.), 5-year B.Com
+LL.B. (Hons.), 3-year B.A. Legal Studies, B.A. Criminology & Criminal Justice, 1-year LL.M. (multiple
+specializations incl. Corporate & Financial Law, IP & Technology Law, Alternative Dispute
+Resolution, International Trade & Investment Law, Taxation Law, Human Rights, Constitutional &
+Administrative Law, Criminal Law & Criminal Justice, International Law, General Legal Studies,
+Environmental Law/Energy/Climate Change with WWF-India). Ranked #1 Law School in India by QS
+World University Rankings by Subject (Law) for 2020-2024. 16 specialised research centres
+(e.g., Centre for Human Rights Studies, Centre for Women's Rights, Centre for Alternative Dispute
+Resolution). Academic collaborations with Harvard Law School, Yale Law School, King's College
+London, University of Sydney Law School, Monash University.
+
+Eligibility & Admissions:
+- 5-year B.A./B.B.A./B.Com LL.B. (Hons.): merit in LSAT-India Entrance Test only.
+- 3-year B.A. Legal Studies / Criminology & Criminal Justice: LSAT-India or JSAT-Law.
+- 3-year LL.B.: LSAT-India only. Minimum: Bachelor's degree, at least 45% aggregate marks.
+- 1-year LL.M.: LSAT-India, JSAT-Law, CLAT PG or CUET PG (70% weightage) + SOP/CV (30%).
+- Ph.D.: LL.M. with at least 55% marks or equivalent.
+LSAT-India registration fee: Rs. 3,999 (via lsatindia.in). Application via lawadmissions.jgu.edu.in.
+Fully refundable security deposit: Rs. 50,000 at admission. Dining halls serve vegetarian food;
+non-veg available on payment at other outlets. Hostel accommodation is double/triple/four-sharing
+only - no single occupancy. Programme fee and residence/dining/laundry charges may rise up to
+10% annually.
+
+=== JINDAL GLOBAL BUSINESS SCHOOL (JGBS) ===
+Established 2010. 14 programmes for AY 2024-25 including Integrated B.B.A.(Hons.)+MBA (5-yr,
+232 credits, Fee Rs. 3,50,000/yr + Residential Rs. 3,10,000/yr + Application Rs. 2,500), B.B.A.(Hons.)
+(180 credits, Fee Rs. 4,00,000/yr), B.B.A.(H) Business Analytics/Family Business/Financial Markets
+(Fee Rs. 4,50,000/yr), MBA 2-year (103 credits, Tuition Rs. 5,50,000/yr, requires CAT/MAT/XAT/
+CMAT/ATMA 50+ percentile or GRE 295+/GMAT 450+/NMAT 160+), Global MBA Business Analytics
+1-year (90 credits, Rs. 11,00,000/yr, needs 2 yrs work experience), plus online programmes: MBA
+powered by upGrad (1-yr, Rs. 1,50,000), MBA Business & Law with JGLS (1-yr, Rs. 1,50,000), MBA
+Business Analytics via Coursera (1-yr Rs.1,65,000 / 2-yr Rs. 4,87,500), MBA Digital Finance via
+upGrad (2-yr, Rs. 3,50,000). Full-time Ph.D.: only 2 merit-based fellowship seats/year.
+160+ full-time faculty, 415+ cross-listed electives from 11 other schools, 120+ international partner
+institutions across 29 countries (e.g., Bond University, Western Sydney University, Pace
+University, University of Texas at Dallas). Career support via Office of Career Services (OCS) +
+school-level OCPD.
+
+=== JINDAL SCHOOL OF INTERNATIONAL AFFAIRS (JSIA) ===
+Commenced 2011 with M.A. Diplomacy, Law & Business (first of its kind in Asia). Also offers B.A.
+(Hons.) Global Affairs, B.A. (Hons.) Political Science, B.A. (Hons.) Diplomacy and Foreign Policy,
+Ph.D. (since 2016), and online M.A. International Relations, Security & Strategy (with Coursera).
+Global Library holds approximately 79,000 volumes. Fee for B.A. programmes: Rs. 3,50,000/yr +
+Residential Rs. 3,10,000/yr + Application Rs. 2,500; Programme is 4 years, admission via personal
+statement + Class 10/12 marks + faculty interview + JSAT score of 55%+ (or LSAT-India/SAT/ACT).
+M.A. (DLB): Rs. 2,50,000/yr, 2-year programme, entrance exam + interview. Ph.D.: two full-time
+fellowships worth Rs. 35,000, completed within 3 years (full-time) or 4 years (part-time). Foreign
+languages offered: Arabic, French, Mandarin, Spanish, German.
+
+=== JINDAL SCHOOL OF GOVERNMENT & PUBLIC POLICY (JSGP) ===
+Offers B.A./B.Sc. (Hons.) Economics (4-yr, 180 credits total for the Hons. track), M.A. Public Policy
+(2-yr, 88 credits, includes capstone/dissertation option, entrance via Public Policy Entrance Test +
+interview), M.A. Economics (2-yr, 80 credits, entrance test + interview), and Ph.D. (Master's degree
+with 55%+ marks). Research centres include the Policy Research Lab (PRL) and Centre for Legal
+Empowerment of the Poor.
+
+=== JINDAL SCHOOL OF LIBERAL ARTS & HUMANITIES (JSLH) ===
+4-year B.A. (Hons.) Liberal Arts & Humanities (194 credits minimum; majors from Semester 4
+onward in Economics, International Business, Literary Studies, Sociology & Anthropology,
+Political Science, Philosophy, Psychology, Environmental Studies, History, Self-Designed, plus
+new majors Digital Humanities/Marketing Arts & Culture/Comparative Religion from 2024).
+2+2 dual degree pathway with Rollins College (USA) and Deakin University (Australia). Also offers
+Jindal Fellowship Programme (1-yr PG Diploma in Research & Innovation, Rs. 6,00,000/yr), B.F.A.
+(Hons.) (4-yr, 196 credits), and B.A. (Hons.) Sociology (4-yr). At least 4 internships required for
+the B.A. (Hons.) LAH programme.
+
+=== JINDAL SCHOOL OF JOURNALISM & COMMUNICATION (JSJC) ===
+Three 4-year undergraduate programmes: B.A. (Hons.) Journalism and Media Studies, B.A. Film
+and New Media, B.A. (Hons.) Corporate Communication and Public Affairs. Admission via personal
+statement + Class X/XII marks + faculty interview + JSAT score of 55%+ (or LSAT-India/SAT/ACT).
+
+=== JINDAL SCHOOL OF ART & ARCHITECTURE (JSAA) ===
+Launched 2018. Programmes: Bachelor of Architecture (B.Arch, 5-yr, entrance via NATA 50%+,
+Fee Rs. 4 Lakh/yr + Hostel Rs. 3.10 Lakh/yr); Bachelor of Design (B.Des, entrance via JCAT 50%+
+in each section or UCEED, Fee Rs. 3 Lakh/yr, pathways: Interior Environments, Immersive Digital
+Environments); BA (Hons.) Built Environment Studies - Jindal Adelaide Architecture Pathway
+(3 years at JSAA + transfer to University of Adelaide year 4, Fee at JSAA Rs. 4.5 Lakh/yr, at
+Adelaide 42,000 AUD/yr) or Jindal Pathway (4-yr residency at JGU, Fee Rs. 4.5 Lakh/yr). 18 minor
+programme areas available (e.g., Anthropology, Legal Studies, Public Policy, Psychology, Public
+Health, Community & Urban Development).
+
+=== JINDAL SCHOOL OF BANKING & FINANCE (JSBF) ===
+Started 2018 with B.Com. (Hons.). Now also offers B.A. (Hons.) Finance & Entrepreneurship
+(4-yr, fully residential), Global B.Com. (transfer to Deakin University, Australia - pathway to
+Bachelor of Business + MBA International from Deakin), B.Com. (Hons.) Capital Markets (with
+NSE Academy Ltd., supports CFA/CFP/FRM prep), M.Sc. Finance (1-yr), and Ph.D. in Finance.
+All UG programmes are 4 years per NEP 2020; PG (M.Sc. Finance) is 1 year.
+
+=== KEY CONTACTS & OFFICES (partial - from Leadership & Governance section) ===
+Registrar: Prof. (Dr.) Maharaj K. Pandit
+Chief Financial Officer: Mr. Arun Kumar Jain
+Chief Administrative Officer: Ms. Deepa Sharma
+Director, Human Resources: Ms. Poonam Sapra
+Controller of Examinations & Chief Proctor: Prof. Karan Latayan
+Dean, Office of Admissions and Outreach: Prof. (Dr.) Upasana Mahanta
+Dean, Office of Academic Governance and Student Life: Prof. Padmanabha Ramanujam
+Dean, Office of International Affairs & Global Initiatives (IAGI): Prof. (Dr.) Laknath Jayasinghe
+Dean, Office of Doctoral Studies: Prof. (Dr.) Krishan Kumar Pandey
+General website: www.jgu.edu.in
+
+=== NOTE ON SCOPE OF THIS EXTRACT ===
+The full Student Handbook (350+ pages) additionally contains detailed sections this extract does
+NOT cover in full: Academic Regulations (incl. attendance rules, p.131), Code of Conduct (p.145),
+Anti-Ragging Regulations (p.170), Gender Sensitisation/COGSASH (p.183), Global Library services
+(p.98), Health Centre/CWCS/SUKOON mental health services (p.110-116), Sports Facilities (p.117),
+Assessment & Evaluation / examinations detail (p.97), full fee/scholarship schedules, faculty and
+administrative staff directories (p.214-331), Channels of Communication, Help Desk & Escalation
+Matrix (p.332-334), and hostel/bus-route logistics. In a production deployment, the FULL PDF
+should be ingested (all 350+ pages, via the ingestion pipeline in backend/ingest.py) so the
+assistant can answer those queries with real citations too. This demo's knowledge base is
+intentionally scoped to what was retrievable in this session.

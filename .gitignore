@@ -1,0 +1,21 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+backend/.env
+
+# Node.js
+node_modules/
+
+# Build output
+dist/
+
+# Chroma database
+chroma_db/
+
+# VS Code
+.vscode/
+documents/

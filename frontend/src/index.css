@@ -1,0 +1,37 @@
+:root {
+  --ink: #14161f;
+  --navy: #101d38;
+  --navy-deep: #0a1326;
+  --brass: #b6863c;
+  --brass-light: #e3c584;
+  --maroon: #6e2233;
+  --paper: #f6f2ea;
+  --paper-warm: #efe7d8;
+  --line: rgba(16, 29, 56, 0.12);
+  --white: #ffffff;
+
+  --font-display: 'Fraunces', Georgia, serif;
+  --font-body: 'Inter', -apple-system, sans-serif;
+}
+
+* { box-sizing: border-box; }
+
+html, body, #root { height: 100%; }
+
+body {
+  margin: 0;
+  font-family: var(--font-body);
+  background: var(--paper);
+  color: var(--ink);
+  -webkit-font-smoothing: antialiased;
+}
+
+a { color: inherit; }
+
+button { font-family: inherit; cursor: pointer; }
+
+::selection { background: var(--brass-light); color: var(--navy-deep); }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: 0.001ms !important; transition-duration: 0.001ms !important; }
+}
