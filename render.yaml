@@ -10,13 +10,14 @@ services:
       - key: GEMINI_API_KEY
         sync: false
       - key: GEMINI_MODEL
-        value: gemini-2.0-flash
+        value: gemini-2.5-flash
       - key: EMBEDDING_MODEL
         value: all-MiniLM-L6-v2
       - key: CHROMA_PERSIST_DIR
-        value: /opt/render/project/src/backend/chroma_db
+        value: ./chroma_db
+
       - key: DOCS_DIR
-        value: /opt/render/project/src/backend/documents
+        value: ./documents
       - key: ADMIN_API_KEY
         sync: false
       - key: COLLEGE_NAME
@@ -25,10 +26,7 @@ services:
         value: JGU
       - key: ALLOWED_ORIGINS
         value: "*"
-    disk:
-      name: chroma-data
-      mountPath: /opt/render/project/src/backend/chroma_db
-      sizeGB: 1
+   
 
   - type: web
     name: college-ai-assistant-frontend
