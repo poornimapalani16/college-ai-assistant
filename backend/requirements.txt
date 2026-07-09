@@ -7,14 +7,13 @@ python-multipart==0.0.17
 # LangChain / LangGraph
 langchain==0.3.9
 langchain-community==0.3.9
-langchain-huggingface==0.1.2
 langchain-chroma==0.1.4
 langchain-google-genai==2.0.7
 langgraph==0.2.53
 
-# Vector store + embeddings
+# Vector store (embeddings now come from the Gemini API, not a local model -
+# keeps memory usage low enough for free-tier hosting)
 chromadb==0.5.23
-sentence-transformers==3.3.1
 
 # Document loaders
 pypdf==5.1.0

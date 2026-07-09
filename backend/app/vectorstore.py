@@ -1,8 +1,11 @@
 """
-ChromaDB vector store wrapper, embedding with Sentence-Transformers via
-LangChain's HuggingFaceEmbeddings wrapper (runs locally, no API cost).
+ChromaDB vector store wrapper, embedding with Google's hosted Gemini
+embedding API (same GEMINI_API_KEY you already have - no local model,
+no torch, tiny memory footprint). This matters on constrained hosting
+(e.g. Render's free 512MB instances), where a local sentence-transformers
++ torch stack can exceed available RAM and get silently killed mid-request.
 """
-from langchain_huggingface import HuggingFaceEmbeddings
+from langchain_google_genai import GoogleGenerativeAIEmbeddings
 from langchain_chroma import Chroma
 from app.config import settings
 
@@ -13,7 +16,10 @@ _vectorstore = None
 def get_embeddings():
     global _embeddings
     if _embeddings is None:
-        _embeddings = HuggingFaceEmbeddings(model_name=settings.EMBEDDING_MODEL)
+        _embeddings = GoogleGenerativeAIEmbeddings(
+            model=settings.EMBEDDING_MODEL,
+            google_api_key=settings.GEMINI_API_KEY,
+        )
     return _embeddings
 
 

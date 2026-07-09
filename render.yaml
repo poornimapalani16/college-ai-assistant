@@ -1,23 +1,22 @@
 services:
   - type: web
     name: college-ai-assistant-api
-    env: python
+    runtime: python
     rootDir: backend
+    plan: free
     buildCommand: "pip install -r requirements.txt"
-    startCommand: "uvicorn app.main:app --host 0.0.0.0 --port $PORT"
+    startCommand: "python seed_documents.py; uvicorn app.main:app --host 0.0.0.0 --port $PORT"
     envVars:
-      - key: PYTHON_VERSION
-        value: 3.11.6
       - key: GEMINI_API_KEY
         sync: false
       - key: GEMINI_MODEL
         value: gemini-2.5-flash
       - key: EMBEDDING_MODEL
-        value: all-MiniLM-L6-v2
+        value: models/text-embedding-004
       - key: CHROMA_PERSIST_DIR
-        value: ./chroma_db
+        value: /opt/render/project/src/backend/chroma_db
       - key: DOCS_DIR
-        value: ./documents
+        value: /opt/render/project/src/backend/documents
       - key: ADMIN_API_KEY
         sync: false
       - key: COLLEGE_NAME
@@ -26,6 +25,13 @@ services:
         value: JGU
       - key: ALLOWED_ORIGINS
         value: "*"
+    # NOTE: no persistent disk on the free plan (disks require a paid plan), so
+    # chroma_db/ and documents/ live on ephemeral storage and are wiped on every
+    # deploy and every free-tier spin-down/restart. The startCommand above runs
+    # `python seed_documents.py` automatically on every boot to re-index
+    # backend/data/ before the API starts - no manual Shell step needed (Shell
+    # access itself is a paid-plan feature on Render). Embeddings use the
+    # Gemini API (not a local model) to stay within the free tier's 512MB RAM.
 
   - type: web
     name: college-ai-assistant-frontend
